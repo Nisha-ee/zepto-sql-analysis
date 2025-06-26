@@ -13,6 +13,12 @@ This project is a SQL-based data exploration and analysis of Zepto-style e-comme
 
 ---
 
+## 📄 Source Data
+
+This project uses real product-level data from Zepto, available here:
+
+🔗 [`zepto_data.csv`](./zepto_data.csv)
+
 ## 🧹 Data Cleaning
 
 - Dropped rows where MRP or discounted price is zero
