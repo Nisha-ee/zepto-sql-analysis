@@ -1,3 +1,5 @@
+![Zepto SQL Banner](./banner.png)
+
 # 🛒 Zepto Data Analysis – SQL Project
 
 This project is a SQL-based data exploration and analysis of Zepto-style e-commerce data. The goal is to clean, explore, and derive insights from a sample dataset that mimics real-world grocery delivery platform data.
